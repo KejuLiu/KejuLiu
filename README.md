@@ -2,7 +2,7 @@
 
 ![KejuLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KejuLiu)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&hide_border=true&card_width=480)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&hide_border=true&card_width=495)](https://git.io/streak-stats)
 
 [![KejuLiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
