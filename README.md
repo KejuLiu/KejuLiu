@@ -6,6 +6,8 @@
 
 [![KejuLiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![typing_profile_svg](profile-3d-contrib/profile-gitblock.svg)]
+
 
 
 
