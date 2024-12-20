@@ -2,11 +2,13 @@
 
 ![KejuLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KejuLiu)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=vue&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=600&card_height=200)](https://git.io/streak-stats)
+
 [![KejuLiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 profile-3d-contrib/profile-gitblock.svg
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=vue&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=600&card_height=200)](https://git.io/streak-stats)
+
 
 
 
