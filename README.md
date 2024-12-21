@@ -6,7 +6,7 @@
 
 [![KejuLiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/)
+[![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=KejuLiu&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/KejuLiu)
 
 
 
