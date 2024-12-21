@@ -14,15 +14,15 @@
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="typing_profile_svg" />
 </div>
 
-<--<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" />
-  </a>
-</div>!-->
-
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light" alt="KejuLiu's github activity graph" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" />
   </a>
 </div>
 
