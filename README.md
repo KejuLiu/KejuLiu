@@ -2,7 +2,7 @@
 
 ![KejuLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KejuLiu)
 
-[![typing_profile_svg](profile-3d-contrib/profile-gitblock.svg)]
+![typing_profile_svg](profile-3d-contrib/profile-gitblock.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
