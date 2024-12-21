@@ -8,9 +8,9 @@
 ![typing_profile_svg](profile-3d-contrib/profile-gitblock.svg)
 
 
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)</div>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 [![KejuLiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
