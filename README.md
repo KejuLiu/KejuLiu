@@ -2,6 +2,8 @@
 
 ![KejuLiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KejuLiu)
 
+[![ygkkk GitHub Stats](https://github-readme-stats.zohan.tech/api?username=yonggekkk&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/yonggekkk)
+
 ![typing_profile_svg](profile-3d-contrib/profile-gitblock.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
