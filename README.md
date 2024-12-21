@@ -14,11 +14,11 @@
   <img src="profile-3d-contrib/profile-gitblock.svg" alt="typing_profile_svg" />
 </div>
 
-<div align="center">
+/**<div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" />
   </a>
-</div>
+</div>**/
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
