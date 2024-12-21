@@ -2,11 +2,13 @@
 
 ![typing_profile_svg](profile-3d-contrib/profile-gitblock.svg)
 
+
+[![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=KejuLiu&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/KejuLiu)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 [![KejuLiu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kejuLiu&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=KejuLiu&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/KejuLiu)
 
 
 
