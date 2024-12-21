@@ -11,7 +11,7 @@
 <div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)</div>
 
 <div align="center">
-  <img src="(https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)" />
+  <img src="(https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)(https://git.io/streak-stats)" />
 </div>
 
 
