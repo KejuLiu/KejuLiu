@@ -20,12 +20,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=KejuLiu&theme=github-light&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" />
-  </a>
-</div>
-
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199141802131/)
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
